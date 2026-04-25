@@ -1,5 +1,6 @@
 
 # erlcpy
+> [!WARNING] This API wrapper has not been recently updated! This still uses **ERLC API (V1)** and not the new V2 proto.
 A light-weight ~~script (turns out I am dumb)~~ API wrapper to interact with the ERLC API.
 > working since June 9 :)
 
